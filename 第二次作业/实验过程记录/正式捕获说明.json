@@ -1,0 +1,10 @@
+{
+  "start_time": "2026-10-27T01:27:12+08:00",
+  "target": "https://pan.baidu.com/",
+  "account_host": "passport.baidu.com",
+  "interface": "以太网",
+  "capture_filter": "(tcp port 443 or udp port 443) and (host pan.baidu.com or host passport.baidu.com)",
+  "duration_limit_seconds": 240,
+  "tool": "Wireshark dumpcap 4.6.9 / Npcap 1.88",
+  "note": "用户自行操作浏览器口令登录；不收集TLS会话密钥"
+}

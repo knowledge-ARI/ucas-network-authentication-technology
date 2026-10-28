@@ -1,0 +1,27 @@
+[
+  {
+    "file": "image/百度网盘_账号登录_脱敏.png",
+    "sha256": "7e4d5902e00b154e11b533462b2cff7a7b7fdc6bef0716c32a608483aa72a770",
+    "redaction": "账号、端点IP、MAC和接口标识遮盖；帧号与协议字段保留"
+  },
+  {
+    "file": "image/Wireshark_01_ClientHello与SNI.png",
+    "sha256": "b5ee89e87ed8d84a0c0b74f849a46f97feecda2f2586bd4290c83da1aab13a7b",
+    "redaction": "账号、端点IP、MAC和接口标识遮盖；帧号与协议字段保留"
+  },
+  {
+    "file": "image/Wireshark_02_ServerHello套件.png",
+    "sha256": "8dae7a18199dfc0a937494f819c80a84000f8b817ee7121fcb38c93c3abd1461",
+    "redaction": "账号、端点IP、MAC和接口标识遮盖；帧号与协议字段保留"
+  },
+  {
+    "file": "image/Wireshark_03_X25519与握手签名.png",
+    "sha256": "08604f5e44d82780813b6cdc8eb3e123e44f2a17a07b2ed363fdbcb1d7adea61",
+    "redaction": "账号、端点IP、MAC和接口标识遮盖；帧号与协议字段保留"
+  },
+  {
+    "file": "image/Wireshark_04_加密应用数据.png",
+    "sha256": "0d92f3789b92dfb9a59a7c0a774c97102dc1c7139d3f9b80045853947e55932e",
+    "redaction": "账号、端点IP、MAC和接口标识遮盖；帧号与协议字段保留"
+  }
+]

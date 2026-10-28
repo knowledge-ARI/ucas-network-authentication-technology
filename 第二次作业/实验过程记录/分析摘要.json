@@ -1,0 +1,21 @@
+{
+  "capture": "baidu-password-login.pcapng",
+  "sha256": "d6aa3d9bc0e69d8b9f1e3db540ba405a689f345c47191ed9247a95cc71969d2f",
+  "packet_count": 3496,
+  "first_packet_time": "2026-10-27 01:27:29.395954300 +08:00",
+  "last_packet_time": "2026-10-27 01:30:40.111596100 +08:00",
+  "duration_seconds": 190.7156418,
+  "user_reported_outcome": "已完成口令登录",
+  "outcome_source": "操作者确认，未从解密HTTP响应中验证",
+  "example_tcp_stream": 26,
+  "sni": "passport.baidu.com",
+  "client_hello_frame": 1168,
+  "server_hello_frame": 1171,
+  "server_key_exchange_frame": 1174,
+  "tls_version": "TLS 1.2",
+  "cipher_suite": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256",
+  "cipher_suite_code": "0xC02F",
+  "key_exchange_group": "X25519 (0x001D)",
+  "server_key_exchange_signature": "rsa_pss_rsae_sha256 (0x0804)",
+  "http_login_body_decrypted": false
+}
