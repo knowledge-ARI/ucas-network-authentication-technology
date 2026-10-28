@@ -1,132 +1,132 @@
 frame.number	frame.time_relative	tcp.stream	tls.handshake.type	tls.handshake.extensions_server_name	tls.handshake.version	tls.handshake.ciphersuite	tls.handshake.server_named_curve	_ws.col.Info
-6	0.008434300	1	1	pan.baidu.com	0x0303	0x1a1a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-11	0.023424400	1	2		0x0303	0xc02f		Server Hello
-14	0.023426500	1	11					Certificate
-15	0.023427300	1	12,14				0x001d	Server Key Exchange, Server Hello Done
-17	0.026652100	1	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
-22	0.036088700	1	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
-45	13.840671100	3	1	pan.baidu.com	0x0303	0x8a8a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-47	13.849726700	3	2		0x0303	0xc02f		Server Hello
-50	13.849728600	3	11					Certificate
-51	13.849729300	3	12,14				0x001d	Server Key Exchange, Server Hello Done
-53	13.850264000	3	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
-60	13.857869700	3	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
-70	14.181317000	7	1	pan.baidu.com	0x0303	0x9a9a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-74	14.184434900	6	1	pan.baidu.com	0x0303	0xaaaa,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-83	14.198054100	7	2		0x0303	0xc02f		Server Hello
-86	14.198056400	7	11					Certificate
-87	14.198057100	7	12,14				0x001d	Server Key Exchange, Server Hello Done
-89	14.200773300	6	2		0x0303	0xc02f		Server Hello
-92	14.200779300	6	11					Certificate
-93	14.200780000	6	12,14				0x001d	Server Key Exchange, Server Hello Done
-99	14.210919600	7	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
-100	14.211210500	6	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
-105	14.220155000	7	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
-108	14.224069000	6	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
-172	43.730246500	9	1	pan.baidu.com	0x0303	0x8a8a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-176	43.743250700	9	2		0x0303	0xc02f		Server Hello
-179	43.743253300	9	11					Certificate
-180	43.743254200	9	12,14				0x001d	Server Key Exchange, Server Hello Done
-183	43.744750700	9	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
-189	43.752464500	9	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
-233	48.257970400	10	1	pan.baidu.com	0x0303	0x1a1a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-242	48.266905500	10	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-243	48.267213800	10						Change Cipher Spec, Encrypted Handshake Message
-262	48.518621900	13	1	pan.baidu.com	0x0303	0xcaca,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-266	48.521682900	15	1	pan.baidu.com	0x0303	0x9a9a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-269	48.529076800	13	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-270	48.529680300	13						Change Cipher Spec, Encrypted Handshake Message
-280	48.533126400	15	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-281	48.533464200	15						Change Cipher Spec, Encrypted Handshake Message
-319	48.715504000	16	1	pan.baidu.com	0x0303	0xaaaa,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-323	48.716976800	19	1	pan.baidu.com	0x0303	0x9a9a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-326	48.723065100	16	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-327	48.723441300	16						Change Cipher Spec, Encrypted Handshake Message
-332	48.725808900	19	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-339	48.726716800	19						Change Cipher Spec, Encrypted Handshake Message
-513	51.745874000	20	1	passport.baidu.com	0x0303	0x9a9a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
-525	51.763101800	20	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
-534	51.773019100	20	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
-563	52.145045200	21	1	passport.baidu.com	0x0303	0xaaaa,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
-568	52.148754100	22	1	passport.baidu.com	0x0303	0xcaca,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
-572	52.150372000	23	1	passport.baidu.com	0x0303	0x2a2a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
-577	52.156424700	24	1	passport.baidu.com	0x0303	0xbaba,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
-578	52.157060000	21	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-582	52.157280200	25	1	passport.baidu.com	0x0303	0x3a3a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
-583	52.157295600	21						Change Cipher Spec, Encrypted Handshake Message
-587	52.159683500	22	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-588	52.160759500	22						Change Cipher Spec, Encrypted Handshake Message
-592	52.162051300	23	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-593	52.162412000	23						Change Cipher Spec, Encrypted Handshake Message
-596	52.167431900	25	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-599	52.167919900	25						Change Cipher Spec, Encrypted Handshake Message
-602	52.168291800	24	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-603	52.168595700	24						Change Cipher Spec, Encrypted Handshake Message
-1168	110.817573100	26	1	passport.baidu.com	0x0303	0x3a3a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
-1171	110.829653600	26	2		0x0303	0xc02f		Server Hello
-1174	110.829657500	26	11,12,14				0x001d	Certificate, Server Key Exchange, Server Hello Done
-1176	110.830123600	26	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
-1178	110.830263500	26						Application Data
-1183	110.839362200	26	4					[TCP Out-Of-Order] , New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
-1188	110.877628200	26						[TCP Previous segment not captured] , Application Data
-1211	116.201543900	26						Application Data
-1215	116.228482100	26						Application Data
-1216	116.228483500	26						[TCP Previous segment not captured] , Application Data
-1247	128.346436200	26						Application Data
-1251	128.369346100	26						Application Data
-1252	128.369347100	26						[TCP Previous segment not captured] , Application Data
-1268	136.037425100	28	1	pan.baidu.com	0x0303	0x6a6a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-1273	136.051180500	28	2		0x0303	0xc02f		Server Hello
-1276	136.051183100	28	11					Certificate
-1277	136.051183900	28	12,14				0x001d	Server Key Exchange, Server Hello Done
-1279	136.051674800	28	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
-1285	136.060414000	28	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
-1293	136.178040700	26						Application Data
-1298	136.201302700	26						[TCP Previous segment not captured] , Application Data
-1300	136.201306000	26						[TCP Retransmission] , Application Data
-1312	136.884407300	26						Application Data
-1317	136.908963500	26						[TCP Previous segment not captured] , Application Data
-1319	136.908966900	26						Application Data
-1325	136.924645200	26						Application Data
-1328	136.924685200	26						Application Data
-1335	137.094170400	26						Application Data
-1336	137.094171100	26						[TCP Retransmission] , Application Data
-1337	137.094171900	26						Application Data
-1338	137.094172900	26						Application Data
-1360	137.430726600	26						Application Data, Application Data
-1401	140.913181400	29	1	passport.baidu.com	0x0303	0x0a0a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
-1404	140.924065200	29	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-1405	140.925887700	29						Change Cipher Spec, Encrypted Handshake Message
-1419	141.279775900	31	1	pan.baidu.com	0x0303	0x4a4a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-1421	141.287621600	31	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-1422	141.288889900	31						Change Cipher Spec, Encrypted Handshake Message
-1479	154.386861900	32	1	passport.baidu.com	0x0303	0x2a2a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
-1483	154.645413200	32	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-1484	154.645703500	32						Change Cipher Spec, Encrypted Handshake Message
-1506	155.012128000	33	1	passport.baidu.com	0x0303	0x4a4a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
-1508	155.021446700	33	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-1509	155.021789200	33						Change Cipher Spec, Encrypted Handshake Message
-1542	156.288364100	35	1	pan.baidu.com	0x0303	0xaaaa,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-1544	156.296006800	35	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-1545	156.296331400	35						Change Cipher Spec, Encrypted Handshake Message
-1605	156.610450000	36	1	pan.baidu.com	0x0303	0xdada,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-1611	156.617907000	38	1	pan.baidu.com	0x0303	0x4a4a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-1613	156.619624200	36	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-1614	156.619917000	36						Change Cipher Spec, Encrypted Handshake Message
-1623	156.626961800	38	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-1630	156.628191500	38						Change Cipher Spec, Encrypted Handshake Message
-1718	157.747054500	41	1	pan.baidu.com	0x0303	0x9a9a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-1730	157.755250700	41	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-1731	157.755598400	41						Change Cipher Spec, Encrypted Handshake Message
-1740	157.757187400	42	1	pan.baidu.com	0x0303	0x4a4a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-1770	157.791217800	45	1	pan.baidu.com	0x0303	0xeaea,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
-1776	157.799524500	45	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-1777	157.800370000	45						Change Cipher Spec, Encrypted Handshake Message
-1808	157.832710100	42	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
-1809	157.833000000	42						Change Cipher Spec, Encrypted Handshake Message
-2073	158.565260500	46	1	s0-ant.baidu.com	0x0303	0x5a5a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=s0-ant.baidu.com)
-2074	158.574607200	46	2		0x0303	0xc02f		Server Hello
-2077	158.574610300	46	11					Certificate
-2080	158.578528400	46	12,14				0x001d	Server Key Exchange, Server Hello Done
-2081	158.578889700	46	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
-2088	158.586648000	46	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
+6	0.008434300	1	1	pan.baidu.com	0x0303	0x1a1a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+11	0.023424400	1	2		0x0303	0xc02f		Server Hello
+14	0.023426500	1	11					Certificate
+15	0.023427300	1	12,14				0x001d	Server Key Exchange, Server Hello Done
+17	0.026652100	1	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
+22	0.036088700	1	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
+45	13.840671100	3	1	pan.baidu.com	0x0303	0x8a8a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+47	13.849726700	3	2		0x0303	0xc02f		Server Hello
+50	13.849728600	3	11					Certificate
+51	13.849729300	3	12,14				0x001d	Server Key Exchange, Server Hello Done
+53	13.850264000	3	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
+60	13.857869700	3	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
+70	14.181317000	7	1	pan.baidu.com	0x0303	0x9a9a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+74	14.184434900	6	1	pan.baidu.com	0x0303	0xaaaa,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+83	14.198054100	7	2		0x0303	0xc02f		Server Hello
+86	14.198056400	7	11					Certificate
+87	14.198057100	7	12,14				0x001d	Server Key Exchange, Server Hello Done
+89	14.200773300	6	2		0x0303	0xc02f		Server Hello
+92	14.200779300	6	11					Certificate
+93	14.200780000	6	12,14				0x001d	Server Key Exchange, Server Hello Done
+99	14.210919600	7	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
+100	14.211210500	6	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
+105	14.220155000	7	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
+108	14.224069000	6	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
+172	43.730246500	9	1	pan.baidu.com	0x0303	0x8a8a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+176	43.743250700	9	2		0x0303	0xc02f		Server Hello
+179	43.743253300	9	11					Certificate
+180	43.743254200	9	12,14				0x001d	Server Key Exchange, Server Hello Done
+183	43.744750700	9	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
+189	43.752464500	9	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
+233	48.257970400	10	1	pan.baidu.com	0x0303	0x1a1a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+242	48.266905500	10	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+243	48.267213800	10						Change Cipher Spec, Encrypted Handshake Message
+262	48.518621900	13	1	pan.baidu.com	0x0303	0xcaca,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+266	48.521682900	15	1	pan.baidu.com	0x0303	0x9a9a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+269	48.529076800	13	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+270	48.529680300	13						Change Cipher Spec, Encrypted Handshake Message
+280	48.533126400	15	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+281	48.533464200	15						Change Cipher Spec, Encrypted Handshake Message
+319	48.715504000	16	1	pan.baidu.com	0x0303	0xaaaa,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+323	48.716976800	19	1	pan.baidu.com	0x0303	0x9a9a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+326	48.723065100	16	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+327	48.723441300	16						Change Cipher Spec, Encrypted Handshake Message
+332	48.725808900	19	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+339	48.726716800	19						Change Cipher Spec, Encrypted Handshake Message
+513	51.745874000	20	1	passport.baidu.com	0x0303	0x9a9a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
+525	51.763101800	20	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
+534	51.773019100	20	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
+563	52.145045200	21	1	passport.baidu.com	0x0303	0xaaaa,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
+568	52.148754100	22	1	passport.baidu.com	0x0303	0xcaca,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
+572	52.150372000	23	1	passport.baidu.com	0x0303	0x2a2a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
+577	52.156424700	24	1	passport.baidu.com	0x0303	0xbaba,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
+578	52.157060000	21	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+582	52.157280200	25	1	passport.baidu.com	0x0303	0x3a3a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
+583	52.157295600	21						Change Cipher Spec, Encrypted Handshake Message
+587	52.159683500	22	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+588	52.160759500	22						Change Cipher Spec, Encrypted Handshake Message
+592	52.162051300	23	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+593	52.162412000	23						Change Cipher Spec, Encrypted Handshake Message
+596	52.167431900	25	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+599	52.167919900	25						Change Cipher Spec, Encrypted Handshake Message
+602	52.168291800	24	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+603	52.168595700	24						Change Cipher Spec, Encrypted Handshake Message
+1168	110.817573100	26	1	passport.baidu.com	0x0303	0x3a3a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
+1171	110.829653600	26	2		0x0303	0xc02f		Server Hello
+1174	110.829657500	26	11,12,14				0x001d	Certificate, Server Key Exchange, Server Hello Done
+1176	110.830123600	26	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
+1178	110.830263500	26						Application Data
+1183	110.839362200	26	4					[TCP Out-Of-Order] , New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
+1188	110.877628200	26						[TCP Previous segment not captured] , Application Data
+1211	116.201543900	26						Application Data
+1215	116.228482100	26						Application Data
+1216	116.228483500	26						[TCP Previous segment not captured] , Application Data
+1247	128.346436200	26						Application Data
+1251	128.369346100	26						Application Data
+1252	128.369347100	26						[TCP Previous segment not captured] , Application Data
+1268	136.037425100	28	1	pan.baidu.com	0x0303	0x6a6a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+1273	136.051180500	28	2		0x0303	0xc02f		Server Hello
+1276	136.051183100	28	11					Certificate
+1277	136.051183900	28	12,14				0x001d	Server Key Exchange, Server Hello Done
+1279	136.051674800	28	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
+1285	136.060414000	28	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
+1293	136.178040700	26						Application Data
+1298	136.201302700	26						[TCP Previous segment not captured] , Application Data
+1300	136.201306000	26						[TCP Retransmission] , Application Data
+1312	136.884407300	26						Application Data
+1317	136.908963500	26						[TCP Previous segment not captured] , Application Data
+1319	136.908966900	26						Application Data
+1325	136.924645200	26						Application Data
+1328	136.924685200	26						Application Data
+1335	137.094170400	26						Application Data
+1336	137.094171100	26						[TCP Retransmission] , Application Data
+1337	137.094171900	26						Application Data
+1338	137.094172900	26						Application Data
+1360	137.430726600	26						Application Data, Application Data
+1401	140.913181400	29	1	passport.baidu.com	0x0303	0x0a0a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
+1404	140.924065200	29	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+1405	140.925887700	29						Change Cipher Spec, Encrypted Handshake Message
+1419	141.279775900	31	1	pan.baidu.com	0x0303	0x4a4a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+1421	141.287621600	31	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+1422	141.288889900	31						Change Cipher Spec, Encrypted Handshake Message
+1479	154.386861900	32	1	passport.baidu.com	0x0303	0x2a2a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
+1483	154.645413200	32	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+1484	154.645703500	32						Change Cipher Spec, Encrypted Handshake Message
+1506	155.012128000	33	1	passport.baidu.com	0x0303	0x4a4a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=passport.baidu.com)
+1508	155.021446700	33	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+1509	155.021789200	33						Change Cipher Spec, Encrypted Handshake Message
+1542	156.288364100	35	1	pan.baidu.com	0x0303	0xaaaa,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+1544	156.296006800	35	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+1545	156.296331400	35						Change Cipher Spec, Encrypted Handshake Message
+1605	156.610450000	36	1	pan.baidu.com	0x0303	0xdada,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+1611	156.617907000	38	1	pan.baidu.com	0x0303	0x4a4a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+1613	156.619624200	36	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+1614	156.619917000	36						Change Cipher Spec, Encrypted Handshake Message
+1623	156.626961800	38	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+1630	156.628191500	38						Change Cipher Spec, Encrypted Handshake Message
+1718	157.747054500	41	1	pan.baidu.com	0x0303	0x9a9a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+1730	157.755250700	41	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+1731	157.755598400	41						Change Cipher Spec, Encrypted Handshake Message
+1740	157.757187400	42	1	pan.baidu.com	0x0303	0x4a4a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+1770	157.791217800	45	1	pan.baidu.com	0x0303	0xeaea,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=pan.baidu.com)
+1776	157.799524500	45	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+1777	157.800370000	45						Change Cipher Spec, Encrypted Handshake Message
+1808	157.832710100	42	2		0x0303	0xc02f		Server Hello, Change Cipher Spec, Encrypted Handshake Message
+1809	157.833000000	42						Change Cipher Spec, Encrypted Handshake Message
+2073	158.565260500	46	1	s0-ant.baidu.com	0x0303	0x5a5a,0x1301,0x1302,0x1303,0xc02b,0xc02f,0xc02c,0xc030,0xcca9,0xcca8,0xc013,0xc014,0x009c,0x009d,0x002f,0x0035		Client Hello (SNI=s0-ant.baidu.com)
+2074	158.574607200	46	2		0x0303	0xc02f		Server Hello
+2077	158.574610300	46	11					Certificate
+2080	158.578528400	46	12,14				0x001d	Server Key Exchange, Server Hello Done
+2081	158.578889700	46	16					Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message
+2088	158.586648000	46	4					New Session Ticket, Change Cipher Spec, Encrypted Handshake Message
